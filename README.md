@@ -15,6 +15,14 @@ How To Create Image To Ascii Using Python by Alien Coder
 pip install pillow
 ```
 
+# Run
+- Run CLI
+```
+python img_to_ascii_cli.py
+# For Mac and Linux
+python3 img_to_ascii_cli.py
+```
+
 # Demo In Demo Folder
 
 # [Subscribe](https://www.youtube.com/channel/UCuW8vX-txMG0q6ZtBBvZ12g)
